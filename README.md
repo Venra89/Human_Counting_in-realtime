@@ -1,12 +1,20 @@
 # Human_Counting_in-realtime
-In this python project, we are going to build the Human Detection and Counting System through Webcam or you can give your own video or images. This is an intermediate level deep learning project on computer vision, which will help you to master the concepts and make you an expert in the field of Data Science. Let’s build an exciting project.
+In this python project, we are going to build the Human Detection and Counting System through Webcam or you can give your own video or images. This is an intermediate level deep 
+
+learning project on computer vision, which will help you to master the concepts and make you an expert in the field of Data Science. Let’s build an exciting project.
+
 Project Prerequisites
+
 The project in Python requires you to have basic knowledge of python programming and the OpenCV library. We will be needing following libraries:
 
 OpenCV: A strong library used for machine learning
+
 Imutils: To Image Processing
+
 Numpy: Used for Scientific Computing. Image is stored in a numpy array.
+
 Argparse: Used to give input in command line.
+
 To run the human detection deep learning project, please run below-mentioned commands as per requirements
 
 #Run the Human Detection Project
